@@ -11,7 +11,7 @@ title:            RoboComp
 tagline:          ''
 description:      'A simple robotics framework.'
 url:              http://rajathkumarmp.github.io
-baseurl:          /rcwebsite2/
+baseurl:          /rcwebsite2
 
 author:
   name:           'RoboComp'
