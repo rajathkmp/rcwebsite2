@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            RoboComp
 tagline:          ''
 description:      'A simple robotics framework.'
-url:              http://rajathkumarmp.github.io/rcwebsite2/
-baseurl:          /
+url:              http://rajathkumarmp.github.io
+baseurl:          /rcwebsite2
 
 author:
   name:           'RoboComp'
